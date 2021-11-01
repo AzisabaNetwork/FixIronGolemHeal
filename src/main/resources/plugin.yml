@@ -1,0 +1,3 @@
+name: FixIronGolemHeal
+main: net.azisaba.fixIronGolemHeal.FixIronGolemHeal
+version: ${project.version}
